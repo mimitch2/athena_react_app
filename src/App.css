@@ -1,6 +1,7 @@
 .App {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 body {
@@ -10,6 +11,7 @@ body {
 ul {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   list-style: none;
 }
 
